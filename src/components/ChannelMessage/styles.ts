@@ -6,6 +6,7 @@ export const Container = styled.div`
     padding: 4px 16px;
     margin-right: 4px;
     background-color: transparent;
+
     &.mention {
         background-color: var(--mention-message);
         border-left: 2px solid var(--mention-detail);

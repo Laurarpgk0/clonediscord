@@ -25,7 +25,7 @@ const ChannelData: React.FC = () => {
                     />
                 ))}
                 <ChannelMessage
-                    author="Laura Gomes"
+                    author="João Pedro"
                     date="07/04/2022"
                     content={
                         <>
